@@ -3,7 +3,7 @@ require "jquery/morphdom/version"
 module Jquery
   module Morphdom
     module Rails
-      require 'morphdom/engine'
+      require 'jquery/morphdom/engine'
     end
   end
 end
